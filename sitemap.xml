@@ -1,23 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://deepanshujain.github.io/blog/2013/05/31/deepanshus-blog/</loc>
-        <lastmod>2013-05-31T10:23:50+05:30</lastmod>
+        <loc>http://DeepanshuJain.github.io/blog/2013/05/31/deepanshus-blog/</loc>
+        <lastmod>2013-05-31T11:09:15+05:30</lastmod>
     </url>
     <url>
-        <loc>http://deepanshujain.github.io/blog/2013/05/31/test/</loc>
-        <lastmod>2013-05-31T10:34:03+05:30</lastmod>
+        <loc>http://DeepanshuJain.github.io/blog/2013/05/31/test/</loc>
+        <lastmod>2013-05-31T11:09:15+05:30</lastmod>
     </url>
     <url>
-        <loc>http://deepanshujain.github.io/robots.txt</loc>
-        <lastmod>2013-05-30T14:32:26+05:30</lastmod>
+        <loc>http://DeepanshuJain.github.io/blog/2013/05/31/test-post/</loc>
+        <lastmod>2013-05-31T11:09:15+05:30</lastmod>
     </url>
     <url>
-        <loc>http://deepanshujain.github.io/blog/archives/</loc>
-        <lastmod>2013-05-31T10:34:03+05:30</lastmod>
+        <loc>http://DeepanshuJain.github.io/blog/2013/05/31/testpage2/</loc>
+        <lastmod>2013-05-31T11:11:15+05:30</lastmod>
     </url>
     <url>
-        <loc>http://deepanshujain.github.io/</loc>
-        <lastmod>2013-05-31T10:34:03+05:30</lastmod>
+        <loc>http://DeepanshuJain.github.io/robots.txt</loc>
+        <lastmod>2013-05-31T11:09:15+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://DeepanshuJain.github.io/blog/archives/</loc>
+        <lastmod>2013-05-31T11:11:15+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://DeepanshuJain.github.io/</loc>
+        <lastmod>2013-05-31T11:11:15+05:30</lastmod>
     </url>
 </urlset>
